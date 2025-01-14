@@ -1,0 +1,21 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                       Test Method: 'Spice_Test.testcase'                                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @15-01-2025 01:03:33.0383 AM
+[ReportManager] Setting "screenshotParams_scalingFactor" property with "1.25". @15-01-2025 01:03:33.0708 AM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--disable-search-engine-cho..., --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Optimiza..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-sync, --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --remote-debugging-pipe, --no-sandbox, --start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\moham\IdeaProjects..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @15-01-2025 01:03:34.0256 AM
+[ReportManager] Attempting to run locally on: "Windows | Chrome". @15-01-2025 01:03:34.0258 AM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @15-01-2025 01:03:34.0258 AM
+[ReportManager] Successfully Opened: "Windows | Chrome". @15-01-2025 01:03:40.0126 AM
+[ReportManager] Target URL: "https://www.spicejet.com/" @15-01-2025 01:03:40.0155 AM
+[ReportManager] Initial URL: "about:blank" @15-01-2025 01:03:40.0195 AM
+[ReportManager] Navigate to url "https://www.spicejet.com/". @15-01-2025 01:03:56.0518 AM
+[ReportManager] Click "By.xpath: (//*[@class="css-76zvg2 r-cqee49 r-1enofrn r-1ozqkpa"])[6]" @15-01-2025 01:03:57.0141 AM
+[ReportManager] Click "By.xpath: (//*[@class="css-76zvg2 r-cqee49 r-1enofrn r-1ozqkpa"])[6]" @15-01-2025 01:03:57.0715 AM
+[ReportManager] Click "By.xpath: (//*[@class="css-76zvg2 r-cqee49 r-1enofrn r-1ozqkpa"])[6]" @15-01-2025 01:03:58.0018 AM
+[ReportManager] Click "By.xpath: (//*[@class="css-76zvg2 r-cqee49 r-1enofrn r-1ozqkpa"])[6]" @15-01-2025 01:03:58.0298 AM
+[ReportManager] Click "By.xpath: (//*[@class="css-76zvg2 r-cqee49 r-1enofrn r-1ozqkpa"])[6]" @15-01-2025 01:03:58.0537 AM
+[ReportManager] Click "By.xpath: (//*[@class="css-76zvg2 r-cqee49 r-1enofrn r-1ozqkpa"])[6]" @15-01-2025 01:03:58.0725 AM
